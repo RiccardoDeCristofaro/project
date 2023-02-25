@@ -1,0 +1,47 @@
+Pirates style like_
+
+programming part:
+
+1 ) MOVEMENT IN ALL DIRECTIONS 
+2)THE PLAYER CAN TAKE ALL THE INGREDIENTS AND BRING THEM ALL TO THE DESTINATION.
+3) THE INGREDIENTS COULD BE TELEPORTED TO THE PLATE OR PLACED ON IT.
+3) THE MEAL CAN BE RAW AND COOKED
+4) THE MEAL WILL BE SLICED BEFORE BY 3D AND CONCEPT, SO IT CAN BE EASIER TO MANAGE THE CUT.
+5) THE DISHES ARE FINALLY SERVED ON ONE LEVEL SEPARATED.
+6) THE FINAL STAGE OF THE DISH WILL BE CATAPULTED OUT WITH A CANNON.
+7) INDEX OF TASTE/ LIKE
+8) chance to put pressure with time trials and pirate dissatisfaction
+9) put the recipes into a list like a collection and randomize them.
+10) select the right condition to win and lose the game.
+11) object must be pickable
+12) cannon + cannonball with a minigame of the ships
+13) animation knife and cut the food without slicing (particle system)
+
+
+
+- ideas :
+ #ratatouillelike;
+BANNED
+
+
+pirates? body parts into the menu;
+Max 3 ingredients? maybe 4;
+bigger much bigger and chaotic!
+
+horror? / fantasy
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
